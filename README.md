@@ -3,6 +3,7 @@ TBS Robotics Introduction
 - [RMRC 2022 summary](https://github.com/Cinderpe1t/TBS_Robotics_RMRC_2022_Summary)
 - [Motor Setup](https://github.com/Cinderpe1t/TBS_Robotics_RMRC_Motor_Setup)
 - [Motor control with Python](https://github.com/Cinderpe1t/TBS_Robotics_Motor_Control_with_Python)
+- [Robot network setup and remote access](https://github.com/Cinderpe1t/TBS_Robotics_Robot_Network_Setup_Remote_Access)
 - [Send and receive data through network](https://github.com/Cinderpe1t/TBS_Robotics_Send_and_Receive_Data_Through_Network)
 - [Gamepad with Python](https://github.com/Cinderpe1t/TBS_Robotics_Gamepad_with_Python)
 - [Camera for image and video capture](https://github.com/Cinderpe1t/TBS_Robotics_Camera_for_Image_and_Video_Capture)
