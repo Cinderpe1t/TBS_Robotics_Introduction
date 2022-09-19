@@ -1,5 +1,5 @@
 # TBS Robotics Introduction
-TBS Robotics Introduction
+Introduction to 2022 RMRC programming
 - [RMRC 2022 summary](https://github.com/Cinderpe1t/TBS_Robotics_RMRC_2022_Summary)
 - [Motor Setup](https://github.com/Cinderpe1t/TBS_Robotics_RMRC_Motor_Setup)
 - [Motor control with Python](https://github.com/Cinderpe1t/TBS_Robotics_Motor_Control_with_Python)
